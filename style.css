@@ -48,11 +48,7 @@ nav a:hover{
     padding:10px;
     text-decoration: none;
 }
-.active{
-    color:#570A0B;
-    font-weight:bold;
-    text-decoration: none;
-}
+
 
 #intro{
     text-align:center;
